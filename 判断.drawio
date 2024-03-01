@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-29T02:29:46.802Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="NXRitWAxUXfFLC_QrMKl" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-01T14:50:51.436Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="quZ-koTl6VZUWehhEezX" version="23.1.8" type="github">
   <diagram name="第 1 页" id="9B6i5pc0i6AFC_Ok4Ifa">
-    <mxGraphModel dx="1306" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,8 +31,11 @@
         <mxCell id="iwOonRTgiqZsQCudaoed-10" value="切点，圆内外交点，曲直交点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="480" y="450" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QqtTnsvsvATv8yc0gJtZ-1" value="元素个数、种类、部分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="QqtTnsvsvATv8yc0gJtZ-1" value="元素个数、种类、部分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="480" y="500" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QwQOc7exzc3PdinJYsSx-1" value="错题：外边框和面数量相等" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="585" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
